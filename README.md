@@ -1,6 +1,6 @@
 # Fortun3 🔮✨
 
-Fortun3 is a revolutionary blockchain-powered horoscope platform that combines artificial intelligence with blockchain technology to provide personalized astrological insights. Users can exchange USDC for F3 tokens to consult the digital prophet about their destiny using various sources of destiny like wallet addresses, transaction hashes, and timestamps.
+Fortun3 is a revolutionary blockchain-powered horoscope platform that combines artificial intelligence with blockchain technology to provide personalized astrological insights. Users can exchange USDC for F3 tokens to consult the digital prophet about their destiny using various sources of destiny like **wallet addresses, transaction hashes, timestamps, and more**.
 
 ## 🌟 Features
 
@@ -49,7 +49,7 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 - **Backend**: Nestjs
 - **Smart Contracts**: Solidity
 - **Blockchain**: EVMs
-- **AI/ML**:
+- **AI/ML**: OpenAI, n8n
 - **Token Standard**: ERC-20
 
 ## 📊 Token Economics
@@ -61,7 +61,7 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 
 ## 🌐 Links
 
-- [Website](https://fortun3.io)
+- [Website](https://fortun3.guru)
 
 ## 🙏 Acknowledgments
 

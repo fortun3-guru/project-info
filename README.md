@@ -2,6 +2,8 @@
 
 Fortun3 is a revolutionary blockchain-powered horoscope platform that combines artificial intelligence with blockchain technology to provide personalized astrological insights. Users can exchange USDC for F3 tokens to consult the digital prophet about their destiny using various sources of destiny like **wallet addresses, transaction hashes, timestamps, and more**.
 
+> "The future isn't random — it's encrypted, decentralized, and revealed through the eyes of AI."
+
 ## 🌟 Features
 
 - **Token Exchange**: Convert USDC to F3 tokens for horoscope consultations

@@ -28,7 +28,7 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 - [Acknowledgments](#acknowledgments)
 - [AI Animation](#ai-animation)
 
-## 🌟 Features
+## Features
 
 - **Token Exchange**: Convert USDC to F3 tokens for horoscope consultations
 - **Multi-source Destiny Reading**:
@@ -41,7 +41,7 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 - **Prophecy as NFT**: Each consultation mints a unique Destiny NFT stored on IPFS
 - **History Tracking**: Access your past prophecies
 
-## 🔮 The Prophet AI Agent
+## The Prophet AI Agent
 
 The AI agent interprets user-submitted prompts in combination with selected blockchain data (wallet, tx, timestamp). It responds in:
 
@@ -49,7 +49,7 @@ The AI agent interprets user-submitted prompts in combination with selected bloc
 - Voice (optional text-to-speech)
 - NFT Metadata (stored on-chain/IPFS)
 
-## 🏗️ Architecture
+## Architecture
 
 Our system architecture is designed for scalability, security, and seamless user experience:
 
@@ -106,7 +106,7 @@ There are two main user flows:
 
 The User receives: Their prophecy result in text or voice and A minted Destiny NFT
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ The User receives: Their prophecy result in text or voice and A minted Destiny N
 - USDC tokens for initial exchange
 - EVM network access
 
-## 🚀 How It Works
+## How It Works
 
 ### 1. Exchange & Payment
 
@@ -141,7 +141,7 @@ The User receives: Their prophecy result in text or voice and A minted Destiny N
 - A unique Destiny NFT is minted and sent to your wallet
 - You can revisit your prophecy anytime
 
-## 🔮 Technology Stack
+## Technology Stack
 
 - **Frontend**: React.js
 - **Backend**: Nestjs
@@ -150,18 +150,18 @@ The User receives: Their prophecy result in text or voice and A minted Destiny N
 - **AI/ML**: OpenAI, n8n
 - **Token Standard**: ERC-20
 
-## 📊 Token Economics
+## Token Economics
 
 - **Token Name**: F3 Token
 - **Token Standard**: ERC-20
 - **Initial Exchange Rate**: 1 USDC : 1 F3
 - **Consultation Cost**: 1 F3 token
 
-## 🌐 Links
+## Links
 
 - [Website](https://fortun3.guru)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ETHGlobal Hackathon
 

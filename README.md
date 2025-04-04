@@ -19,7 +19,7 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 - **Prophecy as NFT**: Each consultation mints a unique Destiny NFT stored on IPFS
 - **History Tracking**: Access your past prophecies
 
-## The Prophet AI Agent
+## 🔮 The Prophet AI Agent
 
 The AI agent interprets user-submitted prompts in combination with selected blockchain data (wallet, tx, timestamp). It responds in:
 

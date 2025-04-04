@@ -1,0 +1,62 @@
+# ETHGlobal Hackathon Project Documentation
+
+## Project Description
+
+- Project Name: Fortun3
+- Description: [Add your project description here]
+- Problem Statement: [Describe the problem you're solving]
+- Solution Overview: [Brief overview of your solution]
+- Key Features: [List main features]
+
+## Architecture
+
+- Tech Stack:
+  - Frontend: [List frontend technologies]
+  - Backend: [List backend technologies]
+  - Blockchain: [List blockchain technologies]
+- System Components:
+  - [Component 1]
+  - [Component 2]
+  - [Component 3]
+- Smart Contracts:
+  - [Contract 1]
+  - [Contract 2]
+
+## Images
+
+- Project Logo: [Path to logo]
+- UI Screenshots: [Path to screenshots]
+- Architecture Diagram: [Path to architecture diagram]
+- Flow Diagrams: [Path to flow diagrams]
+
+## Flow
+
+- User Journey:
+  1. [Step 1]
+  2. [Step 2]
+  3. [Step 3]
+- Transaction Flow:
+  1. [Step 1]
+  2. [Step 2]
+  3. [Step 3]
+- Integration Points:
+  - [Integration 1]
+  - [Integration 2]
+
+## Development Guidelines
+
+- Code Style: [Add coding standards]
+- Testing Requirements: [Add testing guidelines]
+- Documentation: [Add documentation requirements]
+
+## Deployment
+
+- Environment Setup: [Add environment setup instructions]
+- Deployment Process: [Add deployment steps]
+- Configuration: [Add configuration details]
+
+## Resources
+
+- Documentation Links: [Add relevant documentation links]
+- API References: [Add API documentation]
+- External Services: [List external services used]

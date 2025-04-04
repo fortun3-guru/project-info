@@ -6,6 +6,28 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 
 > "The future isn't random — it's encrypted, decentralized, and revealed through the eyes of AI."
 
+## 📑 Table of Contents
+
+- [Features](#features)
+- [The Prophet AI Agent](#the-prophet-ai-agent)
+- [Architecture](#architecture)
+  - [User Journey](#user-journey)
+  - [Backend Logic](#backend-logic)
+  - [AI & Storage](#ai--storage)
+  - [Output](#output)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+- [How It Works](#how-it-works)
+  - [Exchange & Payment](#1-exchange--payment)
+  - [Submit Your Destiny](#2-submit-your-destiny)
+  - [AI Consultation](#3-ai-consultation)
+  - [NFT Prophecy](#4-nft-prophecy)
+- [Technology Stack](#technology-stack)
+- [Token Economics](#token-economics)
+- [Links](#links)
+- [Acknowledgments](#acknowledgments)
+- [AI Animation](#ai-animation)
+
 ## 🌟 Features
 
 - **Token Exchange**: Convert USDC to F3 tokens for horoscope consultations
@@ -78,7 +100,7 @@ There are two main user flows:
 
 - A Relayer is triggered to mint a Destiny NFT
 
-- The NFTMinter Contract mints the NFT and sends it to the user’s wallet
+- The NFTMinter Contract mints the NFT and sends it to the user's wallet
 
 ### Output
 
@@ -143,6 +165,10 @@ The User receives: Their prophecy result in text or voice and A minted Destiny N
 
 - ETHGlobal Hackathon
 
----
+## AI Animation
+
+About this ai animation we used the [KlingAI](https://app.klingai.com/) to generate the animation video.
+
+## ![Fortun3 Banner](docs/assets/images/ai/ai.jpg)
 
 Built with ❤️ at ETHGlobal Hackathon TAIPEI

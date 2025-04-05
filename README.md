@@ -6,6 +6,8 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 
 > "The future isn't random — it's encrypted, decentralized, and revealed through the eyes of AI."
 
+Demo Link : [https://app.fortun3.guru/](https://app.fortun3.guru/)
+
 ## 📑 Table of Contents
 
 - [Repositories](#repositories)

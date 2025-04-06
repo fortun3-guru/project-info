@@ -8,10 +8,11 @@ Fortun3 is a revolutionary blockchain-powered horoscope platform that combines a
 
 Demo Link : [https://app.fortun3.guru/](https://app.fortun3.guru/)
 
-You need to get F3 Token, using mint function (We miss the faucet page, sorry for that.)
-[Sepolia F3 Token](https://sepolia.etherscan.io/address/0xC5380e64127f79Df8c27384c22f2dbCb43f00551#writeContract#F4)
-[Base Sepolia F3 Token](https://sepolia.basescan.org/address/0xC5380e64127f79Df8c27384c22f2dbCb43f00551#writeContract#F4)
-[Celo F3 Token](https://celoscan.io/address/0xC5380e64127f79Df8c27384c22f2dbCb43f00551#writeContract#F4)
+> You need to get F3 Token, using mint function (We miss the faucet page, sorry for that.)
+
+- [Sepolia F3 Token](https://sepolia.etherscan.io/address/0xC5380e64127f79Df8c27384c22f2dbCb43f00551#writeContract#F4)
+- [Base Sepolia F3 Token](https://sepolia.basescan.org/address/0xC5380e64127f79Df8c27384c22f2dbCb43f00551#writeContract#F4)
+- [Celo F3 Token](https://celoscan.io/address/0xC5380e64127f79Df8c27384c22f2dbCb43f00551#writeContract#F4)
 
 ## 📑 Table of Contents
 
